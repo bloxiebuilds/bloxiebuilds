@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I am bloxiebuilds!
 
 # 💫 About Me:
 A new developer hoping to use github as a way to learn coding
